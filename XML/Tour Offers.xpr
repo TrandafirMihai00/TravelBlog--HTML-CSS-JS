@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\QTour%20Offers.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="Tour%20Offers.xpr">
+        <folder path="."/>
+        <file name="Tour%20Offers.xml"/>
+    </projectTree>
+</project>

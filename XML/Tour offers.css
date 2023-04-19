@@ -1,0 +1,39 @@
+
+#listing {
+    font-family: Lobster, display;
+}
+.body{
+font-family: Lobster, display;
+}
+.destination {
+    font-family: Lobster, display;
+    letter-spacing: 0.2em;
+}
+
+.activities {
+    font-size: 11pt;
+    font-family: Lobster, display;
+}
+
+.transport {
+    font-family: Lobster, display;
+    font-size: 10pt;
+}
+
+.accomodation{
+    font-family: Lobster, display;
+    font-size: 10pt;
+
+}
+.duration{
+    font-family: Lobster, display;
+    font-size: 10pt;
+
+}
+.price{
+    font-family: Lobster, display;
+    font-size: 10pt;
+}
+li {
+    margin-left: -2em;
+}

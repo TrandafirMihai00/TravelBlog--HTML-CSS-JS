@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Tour Offer.xsl"?>
+<Offers>
+    <tour>
+        <destination>
+            Mount Fuji, Japan
+        </destination>
+        <activities>
+            City sightseeing, cultural, religious and historic sites
+        </activities>
+        <transport>
+            Bus, Boat, Train and Bullet Train
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>6</duration>
+        <price>1400</price>
+    </tour>
+    <tour>
+        <destination>
+            Aoraki, New Zealand
+        </destination>
+        <activities>
+            National parks, Helicopter Tours, Natural landmarks sightseeing      
+        </activities>
+        <transport>
+            Private Vehicle, Flight, Helicopter, Ferry and Train
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>14</duration>
+        <price>6000</price>
+    </tour>
+    <tour>
+        <destination>
+            Kirkjufell, Iceland
+        </destination>
+        <activities>
+            Natural landmarks sightseeing, Waterfalls, Volcanoes
+        </activities>
+        <transport>
+            Boat and Minibus
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>8</duration>
+        <price>2500</price>
+    </tour>
+    <tour>
+        <destination>
+            Vinicunca, Peru
+        </destination>
+        <activities>
+            Trekking and Walking tours
+        </activities>
+        <transport>
+            Train, Private Vehicle, Bus and Minibus
+        </transport>
+        <accommodation>No</accommodation>
+        <duration>6</duration>
+        <price>800</price>
+    </tour>
+    <tour>
+        <destination>
+            The Dolomites, Italy
+        </destination>
+        <activities>
+            Trekking and Hiking
+        </activities>
+        <transport>
+            Bus and Private Vehicle
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>8</duration>
+        <price>2000</price>
+    </tour>
+    <tour>
+        <destination>
+            Anse, Seychelles
+        </destination>
+        <activities>
+            SNrkeling, sea-turtle spotting, and swimming
+        </activities>
+        <transport>
+            Boat, Bus, Ferry and Minibus
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>10</duration>
+        <price>3100</price>
+    </tour>
+    <tour>
+        <destination>
+            Zakynthos, Greece
+        </destination>
+        <activities>
+            Scuba diving, snorkeling, Base jumping, and kayaking
+        </activities>
+        <transport>
+            Ferry and Bus
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>8</duration>
+        <price>2000</price>
+    </tour>
+    <tour>
+        <destination>
+            Cape Town, South Africa
+        </destination>
+        <activities>
+            Sightseeing Tours
+        </activities>
+        <transport>
+            Ferry and Bus
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>2</duration>
+        <price>400</price>
+    </tour>
+    <tour>
+        <destination>
+            Kaunaoa Bay, Hawaii
+        </destination>
+        <activities>
+            SNrkeling, Manta Ray spotting, sunbathing and photography
+        </activities>
+        <transport>
+            Coach, Flight and Boat
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>10</duration>
+        <price>2400</price>
+    </tour>
+    <tour>
+        <destination>
+            Tulum Beach, Mexico
+        </destination>
+        <activities>
+            Visit the Mayan ruins, snorkeling, swimming, and go for long strolls
+        </activities>
+        <transport>
+            Boat, Flight and Private Vehicle
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>12</duration>
+        <price>3400</price>
+    </tour>
+    <tour>
+        <destination>
+            Cappadocia, Turkey
+        </destination>
+        <activities>
+            Getaways and short breaks, Trekking and Adventure
+        </activities>
+        <transport>
+            Bus and Private Vehicle
+        </transport>
+        <accommodation>No</accommodation>
+        <duration>5</duration>
+        <price>300</price>
+    </tour>
+    <tour>
+        <destination>
+            Grand Canyon National Park, Arizona
+        </destination>
+        <activities>
+            Trekking, Walking tours and Adventure
+        </activities>
+        <transport>
+            Train and Jeep
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>15</duration>
+        <price>4200</price>
+    </tour>
+    <tour>
+        <destination>
+            Huacachina, Peru
+        </destination>
+        <activities>
+            Adventure
+        </activities>
+        <transport>
+            Bus 
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>3</duration>
+        <price>700</price>
+    </tour>
+    <tour>
+        <destination>
+            Yellowstone National Park, Wyoming
+        </destination>
+        <activities>
+            Trekking, Walking tours and Adventure
+        </activities>
+        <transport>
+            Train and Jeep 
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>3</duration>
+        <price>1200</price>
+    </tour>
+    <tour>
+        <destination>
+            Antelope Canyon, Arizona
+        </destination>
+        <activities>
+            Trekking, Walking tours and Adventure
+        </activities>
+        <transport>
+            Train and Jeep 
+        </transport>
+        <accommodation>
+            YES
+        </accommodation>
+        <duration>2</duration>
+        <price>700</price>
+    </tour>
+</Offers>
+
